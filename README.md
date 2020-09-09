@@ -19,7 +19,7 @@ What the project contains:
 
 ## Live Demo
 
-[Live link]()
+[Live link](https://kelibst.github.io/reactToDo)
 
 ## Getting Started
 
